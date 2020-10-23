@@ -6,7 +6,7 @@
 - [X] [IDE для работы - VS Code](https://code.visualstudio.com/);
 - [X] [GIT для Windows](https://github.com/git-for-windows/git/releases/download/v2.29.0.windows.1/Git-2.29.0-64-bit.exe);
 
-## Последовательность
+## Последовательность !!!!
 
 1. Создание проекта на Git;
 2. Создание проекта на ПК;
